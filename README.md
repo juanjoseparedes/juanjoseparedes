@@ -36,7 +36,7 @@ transform their requirements into achievable objectives.
 - Software Testing and Validation
 
 😎 *My hobbies* : 
-- I like read and go to the beach
+- I like to read and go to the beach
  
 📚 *Learning*
 - Now I'm learning GOLANG, a Programming Language for Backend.
