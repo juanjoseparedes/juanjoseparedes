@@ -39,7 +39,7 @@ transform their requirements into achievable objectives.
 - I like read and go to the beach
  
 📚 *Learning*
-- Now I'm learning a Programming Language for Backend, her name is: GOLANG
+- Now I'm learning GOLANG, a Programming Language for Backend.
 
 ---
 ### 📊 My Stats:
