@@ -1,5 +1,5 @@
 <div id="header" align="center">
-</div><img width="1333" alt="flayer" src="https://user-images.githubusercontent.com/31190497/205779007-cb45b215-76fa-4c04-a8e8-0c6f394ac968.png">
+</div><img width="1333" alt="jpsd" src="https://user-images.githubusercontent.com/31190497/208005088-d35bec0b-6922-4740-b605-dbd6b7199e65.png">
   <h1 align="center">Hi 👋🏻, I'm Juan Paredes👨‍💻</h1> 
 <h3>A passionate about technology with extensive experience in the development of software for points of sale (POS) and financial management.</h3>
 
